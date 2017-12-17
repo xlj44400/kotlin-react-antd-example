@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #000;
+  height: 160px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.App-ticker {
+  font-size: medium;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #f7f7f7;
+  font-weight: 500;
+}
+
+.x-input{
+  width: 100px;
+}
+
+.x-add-form{
+  margin-top: 100px;
+}
